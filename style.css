@@ -426,3 +426,7 @@ a {
     display: none;
   }
 }
+
+.left-box-1,.left-box-2,.center-1, .center-3,.right-1{
+  border: 1px solid #e0dfdc;
+}
